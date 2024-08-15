@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About Me
 
 Welcome to my GitHub page. I want to be a back-end developer. I'm currently learning a programming language and databases.
