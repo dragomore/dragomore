@@ -11,7 +11,7 @@ Welcome to my GitHub page. I want to be a back-end developer. I'm currently lear
     * Experience with VPS.
     * Nginx configuration.
     * Experience working with Unix OS.
-    * Swagger docs.
+    * Create swagger docs.
 * **Databases:**
     * PostgreSQL: Designing data tables.
 * **Tools:**
