@@ -18,6 +18,7 @@ Welcome to my GitHub page. I want to be a back-end developer. I'm currently lear
     * IntelliJ Idea, Maven, Git, PostgreSQL.
     * Spring Boot
     * Swagger
+    * Postman
 
 ### Contact Me
 * **GitHub:** https://github.com/dragomore
