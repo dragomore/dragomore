@@ -13,6 +13,7 @@ Welcome to my GitHub page. I want to be a back-end developer. I'm currently lear
     * Experience working with Unix OS.
     * Create swagger docs.
     * Deploy Spring Boot app with SSL.
+    * SSH.
 * **Databases:**
     * PostgreSQL: Designing data tables.
 * **Tools:**
@@ -20,6 +21,7 @@ Welcome to my GitHub page. I want to be a back-end developer. I'm currently lear
     * Spring Boot, Hibernate.
     * Swagger.
     * Postman.
+    * SSH.
 
 ### Contact Me
 * **GitHub:** https://github.com/dragomore
