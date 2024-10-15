@@ -26,3 +26,4 @@ Welcome to my GitHub page. I want to be a back-end developer. I'm currently lear
 ### Contact Me
 * **GitHub:** https://github.com/dragomore
 * **Email:** dragomore2804@gmail.com
+* **Telegram:** https://t.me/ndearing
