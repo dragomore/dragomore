@@ -12,7 +12,7 @@ Welcome to my GitHub page. I want to be a back-end developer. I'm currently lear
     * Nginx configuration.
     * Experience working with Unix OS.
     * Create swagger docs.
-    * Deploy Spring Boot app with SSL.
+    * Deploy Spring Boot app / with SSL.
     * SSH.
 * **Databases:**
     * PostgreSQL: Designing data tables.
