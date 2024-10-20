@@ -22,6 +22,7 @@ Welcome to my GitHub page. I want to be a back-end developer. I'm currently lear
     * Swagger.
     * Postman.
     * SSH.
+    * Jira.
 
 ### Contact Me
 * **GitHub:** https://github.com/dragomore
