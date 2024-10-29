@@ -8,7 +8,7 @@ Welcome to my GitHub page. I want to be a back-end developer. I'm currently lear
     * Kotlin:  Basic knowledge.
     * Java:  Basic knowledge.
 * **Technical Skills:**
-    * Experience with VPS.
+    * Experience with VDS.
     * Nginx configuration.
     * Experience working with Unix OS.
     * Create swagger docs.
