@@ -1,13 +1,16 @@
 ## About Me
 
-Welcome to my GitHub page. I want to be a back-end developer. I'm currently learning a programming language and databases.
+Welcome to my GitHub page. I want to be a full-stack / back-end developer. I'm currently learning a programming language and databases.
 
 ### Skills
 
 * **Programming Languages:**
     * Kotlin:  Basic knowledge.
     * Java:  Basic knowledge.
+    * TypeScript: Basic knowledge.
+    * JavaScript: Basic knowledge.
 * **Technical Skills:**
+    * React: education in-progress.
     * Experience with VDS.
     * Nginx configuration.
     * Experience working with Unix OS.
