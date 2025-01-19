@@ -16,11 +16,12 @@ Welcome to my GitHub page. I want to be a full-stack / back-end developer. I'm c
     * Experience working with Unix OS.
     * Create swagger docs.
     * Deploy Spring Boot app / with SSL.
+    * Deploy React App / with SSL.
     * SSH.
 * **Databases:**
     * PostgreSQL: Designing data tables.
 * **Tools:**
-    * IntelliJ Idea, Maven, Git, PostgreSQL.
+    * IntelliJ Idea, VS Code, Maven, Git, PostgreSQL.
     * Spring Boot, Hibernate.
     * Swagger.
     * Postman.
