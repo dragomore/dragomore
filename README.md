@@ -18,11 +18,13 @@ Welcome to my GitHub page. I want to be a full-stack / back-end developer. I'm c
     * Deploy Spring Boot app / with SSL.
     * Deploy React App / with SSL.
     * SSH.
+    * AWS-Compatible storage.
 * **Databases:**
     * PostgreSQL: Designing data tables.
 * **Tools:**
     * IntelliJ Idea, VS Code, Maven, Git, PostgreSQL.
     * Spring Boot, Hibernate.
+    * Digital Ocean Spaces.
     * Swagger.
     * Postman.
     * SSH.
