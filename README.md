@@ -24,6 +24,7 @@ Welcome to my GitHub page. I want to be a full-stack / back-end developer. I'm c
 * **Tools:**
     * IntelliJ Idea, VS Code, Maven, Git, PostgreSQL.
     * Spring Boot, Hibernate.
+    * NestJS, TypeORM.
     * Digital Ocean Spaces.
     * Swagger.
     * Postman.
